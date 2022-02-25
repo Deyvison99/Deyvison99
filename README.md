@@ -27,3 +27,4 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:deyvisonribeiro432@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+![Snake animation](https://github.com/Deyvison99/Deyvison99/blob/output/github-contribution-grid-snake.svg)
